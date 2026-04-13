@@ -1,13 +1,13 @@
-<div align="center">
+<h1 align="center">Hey there! I'm Abirami S 👋</h1>
 
-<h1>Hey, I'm Abirami S 👋</h1>
-<h3>Java Full Stack Developer · Spring Boot · React.js · REST APIs · MySQL</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React.js | REST APIs | MySQL</h3>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Abirami333&color=6e40c9&style=flat-square&label=Profile+Views)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-success?style=flat-square)
-![CSE 2025](https://img.shields.io/badge/CSE%20Graduate-2025-blueviolet?style=flat-square)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-FullStack-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SpringBoot-Developer-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React.js-Frontend-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-Database-lightgrey?style=for-the-badge" />
+</p>
 
 ---
 
