@@ -91,11 +91,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abirami333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Abirami333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abirami333&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abirami333&layout=compact&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abirami333&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Abirami333&theme=tokyonight&hide_border=true" />
 
 </div>
 
